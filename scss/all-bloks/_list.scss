@@ -13,7 +13,7 @@ background: #2C343E;
 
 &-box{
 margin-top: 112px;
-padding: 112px 0 0 0;
+padding: 100px 0 0 0;
 }
 &-box-title{
     color: #FEFCF7;
@@ -40,14 +40,55 @@ margin-left: 370px;
 
 }
 
+.list-ul{
+display: flex;
+align-items: center;
+gap:30px ;
+
+}
+
+.list-item{
+    width: 280px;
+    height: 302px;
+    border-radius: 8px;
+    background: #0E8784;
+padding: 72px 48px 48px 49px;
+
+
+
+}
+.list-img {
+margin-left:125px ;
+
+}
+
+.list-img-title{
+    color: #FEFCF7;
+margin-top: 56px;
+    text-align: center;
+    font-family:"Fraunces" 9pt;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+
+
+}
+
+.list-img-text {
+    color: #FEFCF7;
+margin-top: 56px;
+    text-align: center;
+    // font-family: Barlow;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
 
 
 
 
-
-
-
-
+}
 
 
 }

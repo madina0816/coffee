@@ -1,0 +1,88 @@
+.works {
+    margin-top: 400px;
+    padding: 0 85 px;
+
+}
+
+
+.works>h3 {
+    margin-left: 45px;
+    color: #83888F;
+    font-family: Fraunces 9pt;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+
+
+}
+
+.works-span {
+    display: flex;
+    align-items: center;
+    gap: 365px;
+    background: url("../../assert/img/Path\ 2\ \(1\).png");
+    background-repeat: no-repeat;
+}
+
+.works-span>span {
+    margin-left: 45px;
+    width: 31px;
+    height: 31px;
+    border-radius: 50%;
+    border: 2px solid #0E8784;
+    ;
+    fill: #FEFCF7;
+    stroke-width: 2px;
+    stroke: #0E8784;
+
+}
+
+.works-list {
+    display: flex;
+    align-items: center;
+    gap: 95px;
+}
+
+.works-text {
+    margin-top: 67px;
+    color: #FDD6BA;
+
+    font-family: Fraunces 9pt;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 72px
+}
+
+.works-title {
+    width: 255px;
+    color: #333D4B;
+    margin-top: 38px;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 36px;
+
+}
+
+.works-list-text {
+    width: 285px;
+    color: #333D4B;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+
+}
+
+.btn{
+    margin-left: 42px;
+    margin-top: 64px;
+    width: 217px;
+    height: 56px;
+    border-radius: 6px;
+    background: #66D2CF;
+border: transparent;
+
+}
