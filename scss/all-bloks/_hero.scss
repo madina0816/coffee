@@ -1,6 +1,7 @@
 .hero{
     background-image: url( "../assert/img/backgraund\ img.png");
-    background-color: Darkgreyblue;
+    background-size: contain;
+    background-color: $Darkgreyblue;
 &>h1{
 padding: 90px 0 0 86px;
 color:  #FEFCF7;
@@ -30,10 +31,15 @@ margin-left: 86px;
     width: 217px;
     height: 56px;
     border-radius: 6px;
-    background: #66D2CF;
-
+    background: #0E8784;
+border: transparent;
 }
 
+&>button:active{
+    background: #66D2CF;
+
+
+}
 
 
 

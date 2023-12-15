@@ -21,7 +21,17 @@ gap: 42px;
     text-transform: uppercase;
 
 }
+&-link:active{
+    color: #333D4B;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 15px; 
+    letter-spacing: 0.923px;
+    text-transform: uppercase;
+transition: all  1px ease ;
 
+}
 
 }
 
